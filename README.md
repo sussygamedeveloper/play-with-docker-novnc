@@ -51,7 +51,7 @@ Most ubuntu scripts can be run on the 16.04 version but the Minecraft and Qemu s
 In order to launch any of the ubuntu scripts, you need to run the following command in ubuntu playground:
 
 ```
-wget http://raw.githubusercontent.com/ayunami2000/play-with-docker-novnc/main/ubuntu_<insert name>.sh && chmod +x ubuntu_<insert name>.sh && ./ubuntu_<insert name>.sh
+wget http://raw.githubusercontent.com/sussygamedeveloper/play-with-docker-novnc/main/ubuntu_<insert name>.sh && chmod +x ubuntu_<insert name>.sh && ./ubuntu_<insert name>.sh
 ```
 
 (replace <insert name> with the name of the script)
